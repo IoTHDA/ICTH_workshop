@@ -59,6 +59,7 @@ All accepted papers will be published by Elsevier Science in the open-access Pro
 •	Conference Date: October 28 - 30, 2025
 
 **Workshop Chairs:**
+
 •	Farhana Zulkernine
   
   Professor
@@ -66,6 +67,7 @@ All accepted papers will be published by Elsevier Science in the open-access Pro
   School of Computing, Queen’s University
   
   Email: farhana.zulkernine@queensu.ca
+
 •	Sazia Mahfuz
   
   Assistant Professor
