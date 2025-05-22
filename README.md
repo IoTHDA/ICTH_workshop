@@ -60,10 +60,16 @@ All accepted papers will be published by Elsevier Science in the open-access Pro
 
 **Workshop Chairs:**
 •	Farhana Zulkernine
+  
   Professor
+  
   School of Computing, Queen’s University
+  
   Email: farhana.zulkernine@queensu.ca
 •	Sazia Mahfuz
+  
   Assistant Professor
+  
   Jodrey School of Computer Science, Acadia University
+  
   Email: sazia.mahfuz@acadiau.ca
